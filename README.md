@@ -1,6 +1,8 @@
 # Object Detection Server
 
 A Node.js TypeScript backend server that handles object detection processing using TensorFlow.js.
+Client repo url : https://github.com/amiril84/objdetect_client
+Live website : https://objdetectclient-production.up.railway.app/
 
 ## Features
 
